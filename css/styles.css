@@ -1,15 +1,7 @@
-.body{
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color:#FFFFFF;
-}
-
-h1{
-    font-family: 'Roboto'
-weight: Bold;
-size: 56px;
-letter-spacing: 0.02em;
-line-height: 1.07;
 }
 
 .header {
@@ -23,18 +15,15 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
-
 }
-.header-logo span{
-    color: #2e2f42;
 
-
+.header-logo span {
+color: #2e2f42;
 }
 .header-link {
 }
 
 .header-social-link {
-font-family: inherit;
 font-weight: 500
 font-size: 16px;
 line-height: 1.5;
@@ -43,28 +32,27 @@ color:#2e2f42;
 
 }
 .header-social-link:hover,
-.header-social-link:focus{
+.header-social-link:focus {
  color:#404bbf;
 
 }
-.header-address{
-    font-style: normal;
+.header-address {
+font-style: normal;
 }
 
-.header-address-mail-link{
-font-family: inherit;
- font-size: 16px;
+.header-address-mail-link {
+font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
 .header-address-mail-link:hover,
-.header-address-mail-link:focus{
+.header-address-mail-link:focus {
 color: #404bbf;
 }
 
-.header-address-phone-link{
+.header-address-phone-link {
 font-family: inherit;
 font-size: 16px;
 font-weight: 500;
@@ -75,7 +63,7 @@ color: #434455;
     }
 
 .header-address-phone-link:hover,
-.header-address-phone-link:focus{
+.header-address-phone-link:focus {
 color: #404bbf;
         }
 .header-address {
@@ -89,8 +77,8 @@ color: #404bbf;
 .main {
 }
 
-.main-goal{
-    background-color: #2e2f42;
+.main-goal {
+background-color: #2e2f42;
 }
 
 .main-goal-title {
@@ -113,7 +101,7 @@ background-color: #404BBF ;
 
 
 }
-.main-btn:focus{
+.main-btn:focus {
 background-color: #404BBF;
 cursor: pointer;
 
@@ -152,7 +140,7 @@ color:#2e2f42;
 
 }
 
-.main-hero-image{
+.main-hero-image {
     background-color: #FFFFFF;
 }
 .main-hero-subtitle {
@@ -209,10 +197,11 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.footer-link-logo-color-part{
+.footer-link-logo-color-part {
 color: #f4f4fd;
 }
 .footer-text {
 line-height: 1.5;
 color: #F4F4FD;
 letter-spacing: 0.02em;
+}
