@@ -21,8 +21,11 @@ color: #4d5ae5;
 color: #2e2f42;
 }
 .header-link {
-}
 
+}
+.header-link-item {
+color: #2e2f42;   
+} 
 
 .header-social-link {
 font-weight: 500;
