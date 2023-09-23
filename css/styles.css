@@ -96,20 +96,17 @@ color: #ffffff;
 }
 
 .main-goal-btn {
-background-color: #4D5AE5;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFFFFF;
-background-color: #404BBF ;
-
-
+background-color: #4D5AE5;
+cursor: pointer;
 }
 .main-btn:focus {
 background-color: #404BBF;
-cursor: pointer;
 
 }
 .maim-description {
