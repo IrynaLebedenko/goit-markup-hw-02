@@ -48,29 +48,19 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-    
+.header-address-contact-link {
+    font-family: inherit; 
 
-.header-address-mail-link {
-
-}
-
-.header-address-mail-link:hover {
+.header-address-contact-link:hover {
 color: #404bbf;
 }
-.header-address-mail-link:focus {
+.header-address-contact-link:focus {
 color: #404bbf;
 }
 
-.header-address-phone-link {
-font-family: inherit;
+
     }
 
-.header-address-phone-link:hover {
-color: #404bbf;
-}
-.header-address-phone-link:focus {
-color: #404bbf;
-        }
 .header-address {
 }
 .header-address-link {
@@ -100,12 +90,12 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-background-color: #4D5AE5;
 color: #FFFFFF;
+background-color: #4D5AE5;
 cursor: pointer;
 }
-.main-btn:hover,
-.main-btn:focus {
+.main-goal-btn:hover,
+.main-goal-btn:focus {
 background-color: #404BBF;
 }
 
