@@ -3,6 +3,12 @@ font-family: "Roboto", sans-serif;
 color: #434455;
 background-color:#FFFFFF;
 }
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
 
 .header {
 }
@@ -55,6 +61,7 @@ font-style: normal;
 }
 .header-address-contact-link {
     color: #434455;
+    font-weight: 400;
 }
 
 .header-address-contact-link:hover {
